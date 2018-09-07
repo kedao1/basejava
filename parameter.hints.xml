@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="cn.dl.jcdz.file.FileTest.listDir(path)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
